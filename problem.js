@@ -1,3 +1,4 @@
+//for prime no.
 let num=9;
 let count=0;
 for(i=1;i<=num;i++){
@@ -11,6 +12,7 @@ console.log("num is prime no.")
 else{
 console.log("num is not prime no.")
 
+//for palindrome
 let num=221122;
 let str= ""+ num;
 l=str.length
